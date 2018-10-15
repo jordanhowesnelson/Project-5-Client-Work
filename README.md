@@ -13,7 +13,7 @@ This project was developed by:
 - [Jamila Holt](https://www.linkedin.com/in/jamilaholt/), and
 - [Jordan Nelson](https://www.linkedin.com/in/jordanhowesnelson/)
 
-as part of the Data Science Immersive program with [GeneralAssembly](https://generalassemb.ly) in October 2018.
+as part of the Data Science Immersive program with [GeneralAssembly](https://generalassemb.ly) in October 2018; this was presented to FEMA, US Air Force, and New Light Technologies on October 5, 2018.
 
 # Executive Summary
 
